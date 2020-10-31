@@ -19,3 +19,6 @@ import "../stylesheets/application.scss";
 require("bootstrap");
 require("@fortawesome/fontawesome-free");
 import "@fortawesome/fontawesome-free/js/all";
+import "../stylesheets/base.scss"
+import "../stylesheets/boards.scss"
+import "../stylesheets/comments.scss"
